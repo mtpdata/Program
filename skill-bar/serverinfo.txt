@@ -1,0 +1,2 @@
+ServerList={"game":"2018a","HPRO":"2014a"}
+LoginWait={"game":25,"HPRO":25}
