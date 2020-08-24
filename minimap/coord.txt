@@ -1,2 +1,1 @@
-Coord={	"gef_fild10":{"incx":0.322751,"incy":-0.320346,"rpvx":67,"rpvy":145,"rcx":254,"rcy":71}
-	  ,	"prontera":{"incx":0.323077,"incy":-0.331034,"rpvx":60,"rpvy":126,"rcx":232,"rcy":128}}
+Coord={"gef_fild10":{"incx":0.322751,"incy":-0.320346,"rpvx":67,"rpvy":145,"rcx":254,"rcy":71},"prontera":{"incx":0.323077,"incy":-0.331034,"rpvx":60,"rpvy":126,"rcx":232,"rcy":128}}
