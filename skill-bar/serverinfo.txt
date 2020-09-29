@@ -1,2 +1,2 @@
-ServerList={"game":"2018a","HPRO":"2014a","PandaBRO":"2018a"}
-LoginWait={"game":25,"HPRO":25,"PandaBRO":25}
+ServerList={"game":"2018a","HPRO":"2014a","PandaBRO":"2018b"}
+LoginWait={"game":25,"HPRO":25,"PandaBRO":900}
