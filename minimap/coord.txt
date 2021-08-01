@@ -1,1 +1,0 @@
-Coord={"gef_fild10":{"incx":0.322751,"incy":-0.320346,"rpvx":67,"rpvy":145,"rcx":254,"rcy":71},"prontera":{"incx":0.323077,"incy":-0.331034,"rpvx":60,"rpvy":126,"rcx":232,"rcy":128},"gef_fild14":{"incx":0.320261,"incy":-0.320513,"rpvx":62,"rpvy":141,"rcx":270,"rcy":84},"xmas_dun02":{"incx":0.490909,"incy":-0.490291,"rpvx":57,"rpvy":154,"rcx":186,"rcy":27}}
